@@ -1,0 +1,21 @@
+public class ifelse {
+    public static void main(String[] args) {
+
+        int a=50;
+        if(a>0){
+            System.out.println("negative");
+        }
+        if(a<0){
+            System.out.println("positive");
+        }
+        else{
+            System.out.println("zero");
+        }
+
+    }
+}
+
+
+output:
+negative 
+zero
